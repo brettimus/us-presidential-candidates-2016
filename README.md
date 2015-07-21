@@ -1,7 +1,29 @@
-# :warning: UNSTABLE
-The interface provided by this package is not yet stable.
+# :us: Presidential Candidates
 
-I'm working on it! Promise.
+_What peculiar creatures._ 
+
+Herein lies a data structure 
+containing a handful of candidates 
+for the 2016 US presidential election. 
+
+## `candidate` properties
+
+### `.name`
+
+### `.affiliation`
+
+### `.twitter`
+
+### `.website`
+
+## `candidates` (data structure) methods
+
+### `#where`
+_Case Insensitive_
+
+### `#exists`
+_Case Insensitive_
+
 
 ## To Add / Remove Candidates
 
