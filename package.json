@@ -1,6 +1,6 @@
 {
   "name": "us-presidential-candidates-2016",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a data structure containing us-presidential candidates for the 2016 election",
   "main": "index.js",
   "scripts": {

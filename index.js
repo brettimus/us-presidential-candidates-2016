@@ -32,7 +32,6 @@ function lower(s) {
 // LEGACY
 candidates._twitterHandles = {};
 candidates.forEach(function(c) {
-    console.log(c);
     var iHandle = c.twitter.toLowerCase();
     this._twitterHandles[iHandle] = true;
 }, candidates);
