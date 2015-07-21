@@ -1,0 +1,26 @@
+{
+  "name": "us-presidential-candidates-2016",
+  "version": "0.0.1",
+  "description": "a data structure containing us-presidential candidates for the 2016 election",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettimus/us-presidential-candidates-2016.git"
+  },
+  "keywords": [
+    "election",
+    "america",
+    "politics",
+    "president",
+    "2016"
+  ],
+  "author": "boots <brbeut@gmail.com> (http://brettim.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brettimus/us-presidential-candidates-2016/issues"
+  },
+  "homepage": "https://github.com/brettimus/us-presidential-candidates-2016#readme"
+}
