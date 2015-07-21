@@ -42,4 +42,6 @@ candidates.contains = function(handle) {
     return !!candidates._twitterHandles[iHandle];
 };
 
+if (window) window._candidates = candidates;
+
 module.exports = candidates;
