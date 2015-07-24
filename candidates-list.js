@@ -19,13 +19,6 @@ var candidates = [
     },
 
     {
-        name: "Joe Biden",
-        affiliation: D,
-        twitter: "JoeBiden",
-        website: "draftbiden2016",
-    },
-
-    {
         name: "Jim Webb",
         affiliation: D,
         twitter: "JimWebbUSA",
@@ -130,19 +123,6 @@ var candidates = [
         website: "chrischristie.com",
     },
 
-    {
-        name: "Boots McShoes",
-        affiliation: S,
-        twitter: "rudeboot",
-        website: "brettim.us",
-    },
-
-    {
-        name: "God",
-        affiliation: I,
-        twitter: "TheTweetOfGod",
-        website: "anactofgod.com",
-    }
 ];
 
 module.exports = candidates;
