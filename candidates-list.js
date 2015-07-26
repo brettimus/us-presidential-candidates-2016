@@ -123,6 +123,34 @@ var candidates = [
         website: "chrischristie.com",
     },
 
+    {
+        name: "John Kasich",
+        affiliation: R,
+        twitter: "JohnKasich",
+        website: "johnkasich.com",
+    },
+
+    {
+        name: "Lindsey Graham",
+        affiliation: R,
+        twitter: "LindseyGrahamSC",
+        website: "lindseygraham.com",
+    },
+
+    {
+        name: "George Pataki",
+        affiliation: R,
+        twitter: "GovernorPataki",
+        website: "georgepataki.com",
+    },
+
+    {
+        name: "Carly Fiorina",
+        affiliation: R,
+        twitter: "carlyfiorina",
+        website: "carlyforpresident.com",
+    },
+
 ];
 
 module.exports = candidates;
