@@ -17,7 +17,7 @@ var candidates = [
         affiliation: D,
         twitter: "BernieSanders",
         website: "berniesanders.com",
-        description: "America loves a Socialist!"
+        description: "Because America loves a Socialist!"
     },
 
     {
@@ -89,7 +89,7 @@ var candidates = [
         affiliation: R,
         twitter: "RandPaul",
         website: "randpaul.com",
-        description: "Hates drones, Socialists, and Socialist drones.",
+        description: "Hates Socialists, drones, and Socialist drones.",
     },
 
     {
@@ -105,7 +105,7 @@ var candidates = [
         affiliation: R,
         twitter: "TedCruz",
         website: "tedcruz.org",
-        description: "Super open-minded fellow.",
+        description: "Super open-minded.",
     },
 
     {
